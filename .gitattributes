@@ -1,0 +1,2 @@
+models/my_model/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/my_model/saved_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text
