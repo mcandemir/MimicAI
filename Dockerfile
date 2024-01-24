@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM python:slim-bullseye
 
 # Install production dependencies.
 ADD requirements.txt .
